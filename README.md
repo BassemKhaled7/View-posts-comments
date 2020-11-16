@@ -1,3 +1,3 @@
 # View-posts-comments
 
-Dealing with posts api using http & routing (angular)
+Dealing with posts & comments APIs using http & routing (Angular)
